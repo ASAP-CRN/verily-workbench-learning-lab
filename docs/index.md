@@ -20,22 +20,18 @@ This site offers a **progressive, modular learning path**: start at the beginnin
 ## Start here
 
 1. **Read the guide:**  
-   Go to **[Getting Started](getting-started.md)** for login, pods, workspace setup, and data access.
+   Go to for login, pods, workspace setup, and data access.
 
 2. **Choose your path:**  
    - **Pilot Workshop Series** (3 parts):  
-     [Part 1](../tutorials/00_pilot_workshop_series/01_getting_started.ipynb) •
-     [Part 2](../tutorials/00_pilot_workshop_series/02_data_management.ipynb) •
-     [Part 3](../tutorials/00_pilot_workshop_series/03_first_analysis.ipynb)
-   - **Case Studies:** curated end-to-end examples in **[case-studies](../case-studies/README.md)**
 
 
 ## Site map
 
-- **Starter guide:** [Getting Started](getting-started.md)  
-- **FAQ:** [Troubleshooting and common questions](faq.md)  
-- **Glossary:** [Terms and abbreviations](glossary.md)  
-- **Repo:** [Main repository](../README.md)
+- **Starter guide:** 
+- **FAQ:**  
+- **Glossary:**
+- **Repo:** 
 
 !!! note "Data access"
     This site does not distribute ASAP-CRN data. Access is through Verily Workbench under the ASAP data use agreement.
