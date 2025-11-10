@@ -13,7 +13,7 @@ This repository provides resources to help researchers explore and analyze **ASA
 The Verily Workbench Learning Lab is organized as a progressive but flexible learning path. You can follow it step-by-step from beginner to advanced topics, or jump directly to the sections that best fit your research needs.
 
 **Current focus:** Python  
-**Future expansion:** R implementations (see [`r` branch](../../tree/r))
+**Future expansion:** R implementations
 
 ---
 
