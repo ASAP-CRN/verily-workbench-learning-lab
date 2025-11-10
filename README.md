@@ -27,7 +27,7 @@ verily-workbench-learning-lab/
 ```
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome and encourage contributions!  
 - Found a typo? Submit a pull request.  
