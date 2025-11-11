@@ -25,6 +25,17 @@ The Verily Workbench Learning Lab is organized as a progressive but flexible lea
 ```plaintext
 verily-workbench-learning-lab/
 │
+├── docs/
+│   ├── index.md
+│   ├── getting-started.md
+│   └── images/
+│       └── ASAP-CRN_logo.png
+│       └──favicon_ASAP-CRN.png
+├── mkdocs.yml
+├── .github
+│   └──workflows
+│   └──build_docs.yml
+├── requirements-docs.txt
 ├── LICENSE                    # MIT License for code
 └── README.md                  # You are here
 ```
