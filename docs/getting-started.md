@@ -1,10 +1,10 @@
 # Getting Started with Verily Workbench
 
-This guide walks you through the essentials of accessing and using **Verily Workbench** with **ASAP‑CRN data**. Follow the steps below to log in, set up your workspace, review resources, launch apps, and connect a GitHub repository.
+This guide walks you through the essentials of accessing and using **Verily Workbench** with **ASAP‑CRN data**. Follow the steps below to gain access, set up your workspace, review resources, launch apps, and connect a GitHub repository.
 
 ---
 
-## 1. Access and Log In
+## 1. Access
 
 1. Navigate to the [Verily Workbench login page](https://workbench.verily.com).  
 2. Sign in using your institutional or approved credentials associated with ASAP CRN access.  
@@ -25,7 +25,7 @@ Workspaces in **[Verily Workbench](https://workbench.verily.com)** are collabora
 
 ### Access the Learning Lab Workspace
 
-The **ASAP CRN - Verily Workbench Learning Lab workspace** was created in conjunction with this [GitHub repository](https://github.com/ASAP-CRN/verily-workbench-learning-lab). It provides a pre-configured environment that mirrors the tutorials, scripts, and case studies included in this Learning Lab.
+The **ASAP CRN - Verily Workbench Learning Lab workspace** was created in conjunction with this [GitHub repository](https://github.com/ASAP-CRN/asap-crn-learning-lab). It provides a pre-configured environment that mirrors the tutorials, scripts, and case studies included in this Learning Lab.
 
 **Open the workspace:**  
 [🔗 ASAP CRN – Verily Workbench Learning Lab ](https://workbench.verily.com/workspaces/asap-crn-verily-workbench-learning-lab)

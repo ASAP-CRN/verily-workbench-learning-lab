@@ -1,8 +1,8 @@
 site_name: Verily Workbench Learning Lab
 site_description: Starter guide for ASAP-CRN on Verily Workbench
-site_url: https://asap-crn.github.io/verily-workbench-learning-lab
-repo_url: https://github.com/<your-org>/verily-workbench-learning-lab
-repo_name: verily-workbench-learning-lab
+site_url: https://asap-crn.github.io/learning-lab
+repo_url: https://github.com/ASAP-CRN/asap-crn-learning-lab
+repo_name: asap-crn-learning-lab
 
 # Only build from /docs
 docs_dir: docs

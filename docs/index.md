@@ -2,9 +2,9 @@
   <img src="images/ASAP-CRN_logo.png" alt="ASAP-CRN Logo" height="55">
 </p>
 
-# Verily Workbench Learning Lab
+# ASAP CRN Learning Lab
 
-Welcome to the **Verily Workbench Learning Lab**, a resource for working with **ASAP CRN (Aligning Science Across Parkinson’s Collaborative Research Network)** data.
+Welcome to the **ASAP CRN Learning Lab**, a resource for working with **ASAP CRN (Aligning Science Across Parkinson’s Collaborative Research Network)** data on Verily Workbench.
 
 This site offers a **progressive, modular learning path**: start at the beginning for a full onboarding experience, or dive directly into the sections most relevant to your work.
 
@@ -35,7 +35,7 @@ For detailed instructions on the access process, see the
 ## Start Here
 
 1. **Read the Starter Guide**  
-   Begin with [Getting Started](getting-started.md) to learn how to log in, set up your workspace, and connect to Verily Workbench.
+   Begin with [Getting Started](getting-started.md) to learn how to connect to Verily Workbench and set up your workspace.
 
 2. **Choose Your Path**  
     - **Pilot Workshop Series** (3 parts) – a hands-on introduction to using Verily Workbench with example datasets.  
