@@ -2,10 +2,9 @@
 
 # ASAP CRN Learning Lab
 
-A learning hub for using **ASAP-CRN** data on Verily Workbench. This project is designed to accelerate discoveries in Parkinson’s disease (PD) research through practical guides, curated examples, and reproducible workflows.
+A practical workspace for mastering data exploration, curation, and analysis of **ASAP-CRN** datasets within **Verily Workbench**.
 
 [![Docs](https://img.shields.io/badge/View_Guide-Live-blue)](https://asap-crn.github.io/asap-crn-learning-lab/)
-
 
 ---
 

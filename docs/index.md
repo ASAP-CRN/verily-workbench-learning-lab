@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="images/ASAP-CRN_logo.png" alt="ASAP-CRN Logo" height="55">
-</p>
+
+![ASAP logo](images/ASAP-CRN_logo.png){ width="600" align="center" }
 
 # ASAP CRN Learning Lab
 
