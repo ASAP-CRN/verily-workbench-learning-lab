@@ -42,6 +42,5 @@ For detailed instructions on the access process, see the
 
 ---
 !!! note "Data access"
-    This site does not distribute ASAP CRN data.  
-    Access is managed through the [ASAP CRN Data Portal](https://cloud.parkinsonsroadmap.org/collections).  
+    This site does not distribute ASAP CRN data.  Access is managed through the [ASAP CRN Data Portal](https://cloud.parkinsonsroadmap.org/collections).  
     For access steps, see [Prerequisite: Data Access](#prerequisite-data-)

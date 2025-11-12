@@ -31,8 +31,7 @@ The **ASAP CRN Learning Lab workspace** was created in conjunction with the [ASA
 [🔗 ASAP CRN Learning Lab ](https://workbench.verily.com/workspaces/asap-crn-learning-lab)
 
 !!! note
-    The shared workspace is **view-only**.  
-    To run notebooks or make edits, you’ll need to **duplicate** it into your own project area.
+    The shared workspace is **view-only**. To run notebooks or make edits, you’ll need to **duplicate** it into your own project area.
 ---
 
 ### Duplicating a Workspace
@@ -88,3 +87,69 @@ Once you locate a file of interest, you can quickly view or download it without 
 
 !!! tip 
     To open the file in **Google Cloud Platform (GCP)**, click **Open in GCP** in the upper-right corner above the details panel. This opens the linked Google Cloud Storage bucket in a new browser tab, where you can view the full directory and metadata.
+
+## 5. GitHub Repositories
+
+Your duplicated **ASAP-CRN Learning Lab workspace** should already have the **Learning Lab GitHub repository** connected. This ensures that all tutorial notebooks and example files are automatically available when you launch an App.
+
+!!! note
+    GitHub repositories in Verily Workbench are **automatically cloned to your apps** to help you manage source code and stay synced with the latest materials.
+
+---
+
+### Connecting a Repo
+
+If the **ASAP-CRN Learning Lab** repository is not already linked to your workspace (or if you’d like to add another repository), you can connect it manually:
+
+1. Open your workspace and navigate to the **Apps** tab.  
+2. Click **+ Add Repository**.  
+3. In the **Name** field, enter `asap-crn-learning-lab`.  
+4. In the **Repository URL** field, the repo URL:  
+   [https://github.com/ASAP-CRN/asap-crn-learning-lab](https://github.com/ASAP-CRN/asap-crn-learning-lab)  
+5. Click **Add Repository** to confirm and connect.
+
+Once connected, the repository will be **automatically cloned to your app environments**, allowing you to access tutorial notebooks and scripts directly from within JupyterLab or RStudio.
+
+## 6. Apps
+
+Apps are cloud-based environments in Verily Workbench that let you run code, explore data, and manage analysis workflows. Each workspace can host multiple apps such as **JupyterLab**, **RStudio**, or **Visual Studio Code**, which are connected to your data and GitHub repositories.
+
+---
+
+### Launching an App
+
+1. Open your duplicated **ASAP-CRN Learning Lab** workspace.  
+2. In the top navigation bar, click the **Apps** tab.  
+3. Select **+ New app instance**.  
+   ![Create App Button](images/screenshots/Verily-AppTab.png){ width="90%" align="center" }
+4. In the setup dialog:
+    - **Name:** Choose a clear name (e.g.,  `learning-lab-python` or    `learning-lab-rstudio`).  
+    - **App type:** Select your preferred environment:
+        - **JupyterLab** – recommended for Python-based analysis and tutorials. Can support Rstudio. 
+        - **RStudio** – for R and statistical workflows.    
+    - **Machine type:** Choose a standard configuration (e.g., *n1-standard-4*).  
+5. Click **Create App** to launch.  
+   The app will initialize in a few minutes and appear under the **Apps** tab once ready.
+
+---
+
+### Opening and Using Your App
+
+Once your app is running:
+
+- Click your app name to launch the environment.  
+- In JupyterLab, navigate to `/repos/asap-crn-learning-lab/tutorials/` to open the Learning Lab notebooks.  
+- Access workspace-mounted data from the `~/workspace/` directory, which mirrors the contents of the **Resources** tab.  
+---
+
+### Managing Your App
+You can pause or delete apps from the **Apps** tab to manage costs or clean up environments. 
+
+- **Stop App** - suspends compute billing while keeping data intact. 
+- **Delete App** - permanently removes the app and any unsaved local changes.
+
+!!! warning "Billing Reminder"
+    Always stop your app when you’re finished working to avoid unnecessary compute costs.
+
+For additional details, refer to the  
+📘 [Verily Workbench Quickstart Guide – Create an App](https://support.workbench.verily.com/docs/getting_started/workspace_quickstart/#5-create-an-app)

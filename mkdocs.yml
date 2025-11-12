@@ -1,4 +1,4 @@
-site_name: Verily Workbench Learning Lab
+site_name: ASAP CRN Learning Lab
 site_description: Starter guide for ASAP-CRN on Verily Workbench
 site_url: https://asap-crn.github.io/learning-lab
 repo_url: https://github.com/ASAP-CRN/asap-crn-learning-lab
@@ -22,7 +22,9 @@ theme:
 
 plugins:
   - search
-
+  - pdf-export:
+      verbose: true
+      
 markdown_extensions:
   - admonition
   - toc:
