@@ -46,7 +46,5 @@ asap-crn-learning-lab/
 We welcome and encourage contributions!  
 - Found a typo? Submit a pull request.  
 - Have a new dataset or tutorial idea? Open an issue.  
-- Want to add advanced workflows? Share your notebook in the `advanced/` folder.  
-
 ---
 This project is licensed under the MIT License. See `LICENSE` for details.
