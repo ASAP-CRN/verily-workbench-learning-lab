@@ -1,7 +1,7 @@
 #mamba env create -f testing.yml 
 
 name: ll-testing
-channels:
+channels: 
 - conda-forge
 dependencies:
 - python=3.13
@@ -10,23 +10,9 @@ dependencies:
 - notebook
 - pip
 - pip:
-  - scvi-tools[cuda]
-  - pytorch
-  - torchvision
-  - torchaudio
-  - jax 
-  - jaxlib #=*=*cuda*
   - scanpy
   - pandas
   - anndata
-  - pyarrow
-  - xgboost
-  - click
-  - pip
-  - pymde
-  - scikit-misc
-  - scib-metrics
   - harmonypy
   - muon
-  - faiss-gpu-cu12
   - leidenalg
