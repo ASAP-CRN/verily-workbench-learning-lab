@@ -40,7 +40,7 @@ Attempts to train a scANVI model, validate labels with scib, and export a gene b
     - Exporting both sum and median gene counts per cell type. Median might be best for table output on 
 10. Train & Predict with scANVI
     **Results**: *ended up collapsing DA cluster, so would need to retrain, falling back to refined MapMyCells results*
-    - *OPTIONAL ADDITION* Downsample labeled populations to equalize class sizes and retain highest confidence samples.
+    - *OPTIONAL ADDITION*: Downsample labeled populations to equalize class sizes and retain highest confidence samples.
     - Initialize scANVI and train with curated labels with GPU notebook.
     - Flag or remove low confidence or ambiguous cells.
 13. Validate Labels 
