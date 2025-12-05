@@ -4,7 +4,8 @@
 
 A practical workspace for mastering data exploration, curation, and analysis of **ASAP-CRN** datasets within **Verily Workbench**.
 
-> ** New to this workspace? Start with the setup guide on our GitHub Pages:**  
+
+> **New to this workspace? Start with the setup guide on our GitHub Pages:**  
 > 👉 https://asap-crn.github.io/asap-crn-learning-lab/
 
 [![Docs](https://img.shields.io/badge/View_Guide-Live-blue)](https://asap-crn.github.io/asap-crn-learning-lab/)
